@@ -146,14 +146,4 @@ On subsequent visits, the token is verified → Partner stays logged in
 
 Protected routes use middleware to verify token and access partner data
 
-📚 Future Enhancements
 
-Add video upload functionality using Multer / Cloudinary
-
-Add likes & comments on each video
-
-Add category filters
-
-Implement partner dashboard for analytics
-
-Deploy frontend and backend using Render / Vercel / Netlify
